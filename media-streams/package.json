@@ -16,5 +16,8 @@
     "express-ws": "^4.0.0",
     "twilio": "^3.49.0",
     "websocket-stream": "^5.5.2"
+  },
+  "devDependencies": {
+    "configure-env": "^1.0.0"
   }
 }
