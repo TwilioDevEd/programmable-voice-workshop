@@ -1,0 +1,6 @@
+<Response>
+    <Gather action="https://cdennis.proxy.beeceptor.com/gather-digits">
+        <Say loop="3">Press 1 for sales. Press 2 for support.</Say>
+    </Gather>
+    <Say>Sorry we didn't get any input, please call back soon!</Say>
+</Response>

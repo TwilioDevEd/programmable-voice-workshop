@@ -1,0 +1,8 @@
+<Response>
+    <Say>Sorry we missed your call, leave your message after the beep</Say>
+    <Record 
+        action="https://cdennis.proxy.beeceptor.com/record-action" 
+        transcribe="true"
+        transcribeCallback="https://cdennis.proxy.beeceptor.com/transcribed"
+    />
+</Response>

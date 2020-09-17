@@ -1,0 +1,5 @@
+<Response>
+    <Gather input="speech" action="https://cdennis.proxy.beeceptor.com/gather-speech">
+        <Say voice="Polly.Joanna">What would you like to do? You can say things like "Change my reservation", or "Talk to an agent"</Say>
+    </Gather>
+</Response>

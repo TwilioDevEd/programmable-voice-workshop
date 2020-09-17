@@ -1,0 +1,7 @@
+<Response>
+    <Start>
+        <Stream url="wss://cdennis.ngrok.io/audio" />
+    </Start>
+    <Say>Begin speaking what you would like Cedric to repeat</Say>
+    <Pause length="120" />
+</Response>
