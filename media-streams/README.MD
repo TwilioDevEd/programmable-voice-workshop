@@ -6,7 +6,7 @@ This example application demonstrates the power of [Media Streams](https://twili
 
 Create a Google Application that has Google's [Speech to Text API](https://console.cloud.google.com/launcher/details/google/speech.googleapis.com) enabled.
 
-Create credentials for a Service Account and save them in the root folder called `google_creds.json`
+Create credentials for a Service Account and save them as `google_creds.json` in the [folder](./) next to this README.md
 
 Install and configure the server
 
