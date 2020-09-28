@@ -22,8 +22,8 @@ Each folder contains it's own README with more instructions.
 * [`<Play>` a pre-recorded file](https://www.twilio.com/docs/voice/twiml/play)
 * [`<Gather>` input on a call](https://www.twilio.com/docs/voice/twiml/gather)
 * [`<Record>` a call](https://www.twilio.com/docs/voice/twiml/record)
-* [`<Transcribe> a short recording`](https://www.twilio.com/docs/voice/twiml/record#transcribe)
-* [`<Stream> realtime audio`](https://www.twilio.com/docs/voice/twiml/stream)
+* [`<Transcribe>` a short recording](https://www.twilio.com/docs/voice/twiml/record#transcribe)
+* [`<Stream>` realtime audio](https://www.twilio.com/docs/voice/twiml/stream)
 
 ## Tools used
 
