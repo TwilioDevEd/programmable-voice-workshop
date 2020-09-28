@@ -4,14 +4,14 @@
 
 ## Output
 
-- [ ] <Say> 🔈Text-To-Speech (TTS)
+- [ ] `<Say>` 🔈Text-To-Speech (TTS)
 - [ ] Polly Neural 🐦
-- [ ] <Play> 🎼
+- [ ] `<Play>` 🎼
 
 ## Input
 
-- [ ] <Gather> ☎️ Dual Tone Multi Frequency (DTMF) & 🎤
-- [ ] <Record>ings ⏺
+- [ ] `<Gather>` ☎️ Dual Tone Multi Frequency (DTMF) & 🎤
+- [ ] `<Record>`ings ⏺
 - [ ] Transcriptions 📄
 
 ## Realtime
