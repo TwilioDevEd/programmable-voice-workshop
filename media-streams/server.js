@@ -73,6 +73,13 @@ app.ws("/audio", (ws, req) => {
   });
 });
 
+app.use((error, req, res, next) => {
+  res.status(500)
+  res.send({error: error})
+  console.error(error.stack)
+  next(error)
+})
+
 const listener = app.listen(PORT, () => {
   console.log("Your app is listening on port " + listener.address().port);
 });
