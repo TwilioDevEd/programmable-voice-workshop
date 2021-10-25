@@ -17,7 +17,7 @@ npm install
 npx configure
 ```
 
-**Note:** `NODE_ENV` is set to `development` by default
+**Note:** `NODE_ENV` is set to `production` by default
 
 To run locally you'll need to open a port on your machine, so that Twilio can communicate. You can do this using [ngrok](https://ngrok.io).
 

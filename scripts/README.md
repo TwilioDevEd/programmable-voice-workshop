@@ -7,7 +7,7 @@ npm install
 npx configure-env
 ```
 
-Note: `NODE_ENV` is set to `development` by default
+Note: `NODE_ENV` is set to `production` by default
 
 ## Usage
 
