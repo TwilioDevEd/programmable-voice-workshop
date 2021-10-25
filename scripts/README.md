@@ -7,6 +7,8 @@ npm install
 npx configure-env
 ```
 
+Note: `NODE_ENV` is set to `production` by default
+
 ## Usage
 
 Run specific TwiML on a call from `$TWILIO_NUMBER` to `$TO` using files from the [TwiML](../twiml) folder.
