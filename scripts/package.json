@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "twilio": "^3.49.1"
+    "twilio": "^4.0.0"
   },
   "devDependencies": {
     "configure-env": "^1.0.0"
